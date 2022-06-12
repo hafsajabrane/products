@@ -1,0 +1,67 @@
+{"total_size":6,
+"type_id":2,
+"offset":0,
+"products":
+    [
+        {"id":1,
+        "name":"Plat Hamburger",
+        "description":"Le hamburger a pour origine le steak de Hambourg, spécialité culinaire notamment servie dans du pain brioché comme plat roboratif des ouvriers dans les cantines allemandes. Ce steak de bœuf haché est le principal plat servi à bord des bateaux de la HAPAG, la ligne maritime qui relie Hambourg à New York.",
+        "price":12,
+        "stars":4,
+        "img":"Desktop/images/food2.png",
+        "location":"Morocco, Casablanca",
+
+        "type_id":2},
+
+        {"id":2,
+            "name":"le véritableTiramisu ",
+            "description":"Le mot Tiramisù signifie littéralement « viens me chercher ». Il vient du dialecte de Trévise, « Tireme su », italianisé en Tiramisù dans la seconde moitié du XXe siècle. Les archives historiques indiquent que le Tiramisù est né à Trévise en 1800. On dit que ce dessert a été inventé par une 'maîtresse' intelligente d'une maison de plaisir au centre de Trévise.",
+            "price":12,
+            "stars":4,
+            "img":"Desktop/images/food9.jpg",
+            "location":"Morocco, Casablanca",
+            
+            "type_id":2},
+
+              {"id":3,
+            "name":"Creole Rice Side Dish Recipe",
+            "description":"La qualité et le savoir-faire sont au rendez-vous. Les tuniques blanches emblématiques des serveurs sont ici en lin légèrement froissé par rapport aux blancs impeccables de la ville. Les murs épais de la galerie des trois zones distinctes du restaurant sont coulés dans un néon doux afin que même vos pires photos alimentées par le vin se transforment en natures mortes atmosphériques. L'art, généralement, atterrit un coup de poing. Des portraits de Bill Henson au restaurant St Kilda aux magnifiques œuvres d'art vidéo de Shaun Gladwell à Citta, Di Stasio n'utilise pas des pièces pour décorer mais pour provoquer. À l'entrée, un moulage en bronze des mains de Di Stasio dépasse du mur, immortalisé dans le signe du taureau \u2013 à parts égales un accueil de rock star et un avertissement. Un trio d'œuvres puissantes de l'artiste Kamilaroi Reko Rennie, intitulé Genesis, va droit à la jugulaire de la souveraineté non cédée.",
+            "price":12,
+            "stars":4,
+            "img":"Desktop/images/food10.jpg",
+            "location":"Morocco, chichaoua",
+            
+            "type_id":2},
+
+              {"id":4,
+            "name":"Tajine lham barkouk",
+            "description":"Le tajine aurait été inventé par les Berbères bien avant notre ère. Pour ce peuple nomade, quoi de mieux qu'un ustensile à la fois plat de cuisson et plat de service ?",
+            "price":12,
+            "stars":4,
+            "img":"Desktop/images/food13.jpg",
+            "location":"Morocco, chichaoua",
+            
+            "type_id":2},
+
+
+            {"id":5,
+            "name":"Chicken biryani",
+            "description":"Le biryani a été importé au sous-continent indien par les voyageurs musulmans et les marchands. Il constituait un plat festif à la cour des empereurs moghols. Les variantes locales de ce plat ne sont pas seulement populaires en Asie du Sud, mais également au Moyen-Orient.",
+            "price":12,
+            "stars":4,
+            "img":"Desktop/images/food12.jpeg",
+            "location":"Morocco, rabat",
+            
+            "type_id":2},
+
+             {"id":6,
+            "name":"Ramen",
+            "description":"Ramen est une recette de cuisine traditionnelle de la cuisine japonaise, à base de nombreuses variantes de bouillons de nouilles, agrémentés de poissons, viandes, légumes, algues, œuf, et assaisonnements miso ou sauce de soja... Importés de Chine au début du xxe siècle, ils sont à ce jour considérés comme faisant partie de la cuisine japonaise, et de l'art culinaire.",
+            "price":12,
+            "stars":4,
+            "img":"Desktop/images/food14.jpeg",
+            "location":"Morocco, rabat",
+            
+            "type_id":2}
+
+            ]}
